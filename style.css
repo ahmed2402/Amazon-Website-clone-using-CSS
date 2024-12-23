@@ -15,6 +15,7 @@
 .nav-logo {
     height: 50px;
     width: 113px;
+    margin-left: -60px;
 }
 
 .logo {
@@ -22,6 +23,7 @@
     background-size: cover;
     height: 50px;
     width: 113px;
+    
 }
 
 .border {
